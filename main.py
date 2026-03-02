@@ -1,3 +1,1 @@
-name = input('what is your name? ')
-print('hi',name,'I am too',old,'years old')
-old = int(input('how old are you? '))
+etage = int(input('qaysi etajini sotib olmoqchisiz?(1-10)? '))
